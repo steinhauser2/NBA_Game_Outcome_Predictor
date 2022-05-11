@@ -1,4 +1,4 @@
-# NBA_Game_Predicter
+# NBA_Game_Outcome_Predictor
 
 Using web scraper https://github.com/vishaalagartha/basketball_reference_scraper.git
 
